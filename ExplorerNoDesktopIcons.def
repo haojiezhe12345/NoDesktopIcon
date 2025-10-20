@@ -1,0 +1,4 @@
+LIBRARY ExplorerNoDesktopIcons
+EXPORTS
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE
